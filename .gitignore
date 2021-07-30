@@ -1,0 +1,7 @@
+__pycache__
+config-realdata.json
+app/config.json
+log.log
+app/.config.json.save.swp
+
+.vscode/settings.json
